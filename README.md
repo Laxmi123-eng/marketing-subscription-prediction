@@ -61,9 +61,4 @@ To identify customers who are most likely to subscribe to a marketing offer, hel
 - Improve lead targeting precision by 5%, reducing unnecessary outreach.
 - Provide interpretable insights for marketing strategy refinement.
 
----
 
-## 👩‍💻 Author
-**Your Name**  
-Data Analyst | Marketing Analytics | Machine Learning  
-📧 [your.email@example.com](mailto:your.email@example.com)
