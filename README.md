@@ -5,12 +5,12 @@ It demonstrates end-to-end marketing analytics workflow — from data cleaning a
 
 ---
 
-## 🎯 Objective
+##  Objective
 To identify customers who are most likely to subscribe to a marketing offer, helping marketing teams optimize outreach efficiency and campaign ROI.
 
 ---
 
-## 🧠 Approach
+##  Approach
 1. Cleaned and prepared marketing campaign data (`bank.csv`).
 2. Built a **Random Forest** model with full preprocessing (OneHotEncoder + StandardScaler).
 3. Performed **threshold optimization** to balance recall and precision.
@@ -21,14 +21,14 @@ To identify customers who are most likely to subscribe to a marketing offer, hel
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Longer call durations strongly correlate with customer conversion.
 - Previous successful contacts and account balance are significant predictors.
 - Threshold tuning improved efficiency by reducing wasted outreach by ~5%.
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 - **Python** – Core programming language  
 - **Pandas, NumPy** – Data handling and manipulation  
 - **Scikit-learn** – Machine learning and model evaluation  
@@ -36,7 +36,7 @@ To identify customers who are most likely to subscribe to a marketing offer, hel
 
 ---
 
-## 🧾 Files
+##  Files
 | File | Description |
 |------|--------------|
 | `bank_subscription_model.py` | Clean, production-ready Python script |
@@ -45,7 +45,7 @@ To identify customers who are most likely to subscribe to a marketing offer, hel
 
 ---
 
-## 🚀 Results Summary
+## Results Summary
 
 | Metric | Threshold 0.4 | Threshold 0.62 (Final) |
 |---------|---------------|------------------------|
@@ -56,7 +56,7 @@ To identify customers who are most likely to subscribe to a marketing offer, hel
 
 ---
 
-## 💡 Business Impact
+##  Business Impact
 - Catch ~75% of potential subscribers with moderate resource usage.
 - Improve lead targeting precision by 5%, reducing unnecessary outreach.
 - Provide interpretable insights for marketing strategy refinement.
