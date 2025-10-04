@@ -39,7 +39,6 @@ To identify customers who are most likely to subscribe to a marketing offer, hel
 ## 🧾 Files
 | File | Description |
 |------|--------------|
-| `bank_subscription_model.ipynb` | Exploratory notebook with data analysis and model building |
 | `bank_subscription_model.py` | Clean, production-ready Python script |
 | `requirements.txt` | Required Python libraries |
 | `README.md` | Project documentation |
